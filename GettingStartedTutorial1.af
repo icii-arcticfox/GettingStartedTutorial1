@@ -1,0 +1,54 @@
+{
+    "VSCodeWorkspaceFile": "GettingStartedTutorial1.code-workspace",
+    "ArcticFoxVersion": "0.2.1.156",
+    "ProjectName": "GettingStartedTutorial1",
+    "GeneratedLineIdentifier": "<>",
+    "VerilogFolders": [
+        "/workspaces/GettingStartedTutorial1/Verilog/"
+    ],
+    "PathToVivadoProject": null,
+    "Tutorials": [
+        [
+            "Step1_Intro",
+            "Getting started with Arctic Fox"
+        ],
+        [
+            "Step2_InsertAutomation",
+            "Add your first Arctic Fox automation"
+        ],
+        [
+            "Step3_RunArcticFox",
+            "Run Arctic Fox for the first time"
+        ],
+        [
+            "Step4_AutomationShortcut",
+            "Insert an automation with Arctic Fox keyboard shortcut"
+        ],
+        [
+            "Step5_ClockAndPreviousAutomation",
+            "Add Arctic Fox automations that are the next step past Hello World"
+        ],
+        [
+            "Step6_CompleteSynchronizer",
+            "Use Arctic Fox automations to complete the synchronizer design"
+        ],
+        [
+            "Step7_IncludeReset",
+            "Add an Arctic Fox Reset automation to demonstrate Arctic Fox's flexibility"
+        ],
+        [
+            "Step8_PreviousWithoutItems",
+            "Simplify using automations by inferring items"
+        ],
+        [
+            "Step9_RunAndCleanShortcuts",
+            "Run Arctic Fox faster with keyboard shortcuts"
+        ],
+        [
+            "Step10_Conclusion",
+            "It's a wrap, welcome to Arctic Fox!"
+        ]
+    ],
+    "SectionNames" : "Tutorials",
+    "SectionSubTitles" : " Select tutorial and press Switch"
+}
